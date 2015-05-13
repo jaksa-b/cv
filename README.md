@@ -114,5 +114,5 @@ Hi, I'm a Web Developer
 
 [Kontakt](http://www.kontakt-zd.hr/) - Company web site
 
-##Intrested in
-Javascript Frontend, BackEnd & Mobile
+##Intrest
+Angular, Node, MongoDB, PhoneGap
