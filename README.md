@@ -100,7 +100,7 @@ Hi, I'm a Web Developer.
 - Ecmascript 6
 - Github api
 
-###[Twitter App](https://github.com/jaksa-b/twitter)
+###[Twitter App](https://github.com/jaksa-b/twitter) - [(live)](https://twitter-app-demo.herokuapp.com/)
 - Agularjs 
 - Nodejs 
 - Socket.io 
