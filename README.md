@@ -1,7 +1,6 @@
 ##About
 
-Hi, I'm a Web Developer
-
+Hi, I'm a Web Developer.
 
 ##Social
 - Homepage: [http://jaksabasic.com](http://jaksabasic.com)
@@ -10,50 +9,52 @@ Hi, I'm a Web Developer
 - LinkedIn: [https://www.linkedin.com/in/jaksabasic](https://www.linkedin.com/in/jaksabasic)
 
 ##Education
-
-[Tvz](http://tvz.hr/en/) (Polytechnic university of zagreb) - Bachelor of Engineering in IT Technologies 
+[Vsite](http://vsite.hr/?q=en) (College for Information Technologies) - Master degree in Computer Science 
 
 [Algebra](http://www.algebra.hr/) Web Development Course (Illustrator, Html5, Css3, Wordpress, Seo)
 
-[Vsite](http://vsite.hr/?q=en) (College for Information Technologies) - Master degree in Computer Science 
+[Tvz](http://tvz.hr/en/) (Polytechnic university of zagreb) - Bachelor of Engineering in IT Technologies 
 
 
 ##Skills
 
 ######Programming languages
 
-- Html5, Css3, Sass, Compass, Bootstrap `medium ^`
+- Html5, Css3, Sass, Bootstrap `medium ^`
 - Javascript `medium ^`
 - Java `basics`
+- Php `basics`
+
 
 ######Web frameworks
 
-- JQuary `basics`
+- JQuary `medium`
 - Angularjs ~1.3, `medium ^` Angularjs 2.0 `soon`
-- React.js `basics`
-- Node.js `basics`
+- Node.js `medium` (express, sails)
+- React.js `basics` [React Native IOS App](https://github.com/jaksa-b/githubProfiler)
+- Meteor `basics`
 
 
 ######Databases
 
 - MySql `medium ^`
-- MongoDB `basics`
+- MongoDB `medium`  Finished: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/course_completion/44941a645a4b47c9ac4705bd9713d203)
 - Oracle Pl/Sql `medium ^`
 
 ######Server architecture and application deployment
 - GNU/Linux(Ubuntu, Debian) `medium ^`
-- Nginx `basics`
+- Nginx `medium`
 - Vagrant `basics`
 - Docker `basics`
 
 ######Cloud
-- Amazon Web Services
-- Heroku
-- Digital Ocean
+- Amazon Web Services `basics`
+- Heroku `medium`
+- Digital Ocean `high`
 
 ######Real-time
 
-- Firebase
+- Firebase `medium`
 
 ######Mobile
 - Android `basics`
@@ -62,7 +63,7 @@ Hi, I'm a Web Developer
 ##Tools
 
 ######Revision control
-- Git (gitHub, bitBucket, gitLab)
+- Git (gitHub, bitBucket)
 
 ######Project Management
 - Trello
@@ -83,9 +84,9 @@ Hi, I'm a Web Developer
 
 
 ##Work
-###[Field Worker](https://fieldworker0.firebaseapp.com) (demo)
+###[Field Worker](https://github.com/jaksa-b/FieldWorker) - [(live)](https://fieldworker0.firebaseapp.com) 
 
-- Html5, Css3, Sass, Compass
+- Html5, Css3, Sass
 - Bootstrap
 - Angularjs
 - Firebase
@@ -93,26 +94,44 @@ Hi, I'm a Web Developer
 - Bower
 - Grunt
 
+###[React Native IOS App](https://github.com/jaksa-b/githubProfiler)
+
+- React Native
+- Ecmascript 6
+- Github api
+
+###[Twitter App](https://github.com/jaksa-b/twitter)
+- Agularjs 
+- Nodejs 
+- Socket.io 
+- Mongodb
+- Twitter api
+
+
 ##To Do Next
-######[Field Worker Mobile Version]()
 
-- Ionic Framework (Android, Ios)
-
-###[Home Automation]()
+###[Home Automation](https://github.com/jaksa-b/SmartHouse)
 - Raspberry Pi
 - Raspbian (Debian for Rpi)
 - Web Controller UI
 
-######[Mobile version]()
+######[Mobile version](https://github.com/jaksa-b/RpiRemote)
 - Remote Rpi Controller (Android)
 
 ##Long Time Ago
 
 > When you look at your past project and you feel ashamed. You say: **I can do it better now**, that means you've evolved.
 
+
 [Algebra Workout](http://jaksabasic.com/old/algebra/) - small project I've done for the course.
 
 [Kontakt](http://www.kontakt-zd.hr/) - Company web site
 
-##Intrest
-Angular, Node, MongoDB, PhoneGap
+
+
+##Intrests
+- Angular
+- Node.js 
+- MongoDB 
+- Cordova/PhoneGap
+
