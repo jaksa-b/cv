@@ -69,6 +69,7 @@ Hi, I'm a Web Developer.
 - Trello
 - GitFlow
 - Agile Scrum Methodologies
+- Full Life-Cycle Software Development
 
 ######Code Editor
 
@@ -108,7 +109,7 @@ Hi, I'm a Web Developer.
 - Twitter api
 
 
-##To Do Next
+##Doing
 
 ###[Home Automation](https://github.com/jaksa-b/SmartHouse)
 - Raspberry Pi
@@ -127,6 +128,13 @@ Hi, I'm a Web Developer.
 
 [Kontakt](http://www.kontakt-zd.hr/) - Company web site
 
+##Personal skills
+- good interpersonal skills 
+- good organizational skills
+- team player but able to work on own initiative
+- flexible and adaptable
+- good written and oral communication skills
+- enthusiastic and highly motivated
 
 
 ##Intrests
@@ -134,4 +142,10 @@ Hi, I'm a Web Developer.
 - Node.js 
 - MongoDB 
 - Cordova/PhoneGap
+
+##Hobby
+- Playing drums
+- Making short movies
+- Photography
+
 
