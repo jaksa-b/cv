@@ -131,9 +131,6 @@ Hi, I'm a Web Developer.
 - Raspbian (Debian for Rpi)
 - Web Controller UI
 
-######[Mobile version](https://github.com/jaksa-b/RpiRemote)
-- Remote Rpi Controller (Android)
-
 ##Long Time Ago
 
 > When you look at your past project and you feel ashamed. You say: **I can do it better now**, that means you've evolved.
