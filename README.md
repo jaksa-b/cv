@@ -2,6 +2,13 @@
 
 Hi, I'm a Web Developer.
 
+![angular](img/angular.png)
+![react](img/react.png)
+![meteor](img/meteor.png)
+![nodejs](img/node.png)
+![mongodb](img/mongo.png)
+![mongodb](img/phonegap.png)
+
 ##Social
 - Homepage: [http://jaksabasic.com](http://jaksabasic.com)
 - Twitter: [https://twitter.com/jaksabasic](https://twitter.com/jaksabasic)
@@ -17,8 +24,9 @@ Hi, I'm a Web Developer.
 
 
 ##Skills
+`^` up and rising
 
-######Programming languages
+######Languages
 
 - Html5, Css3, Sass, Bootstrap `medium ^`
 - Javascript `medium ^`
@@ -28,22 +36,22 @@ Hi, I'm a Web Developer.
 
 ######Web frameworks
 
-- JQuary `medium`
+- JQuary `medium ^`
 - Angularjs ~1.3, `medium ^` Angularjs 2.0 `soon`
-- Node.js `medium` (express, sails)
-- React.js `basics` [React Native IOS App](https://github.com/jaksa-b/githubProfiler)
-- Meteor `basics`
+- Node.js (express) `medium ^` 
+- React.js `basics ^` [React Native IOS App](https://github.com/jaksa-b/githubProfiler)
+- Meteor `medium ^`
 
 
 ######Databases
 
-- MySql `medium ^`
-- MongoDB `medium`  Finished: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/course_completion/44941a645a4b47c9ac4705bd9713d203)
-- Oracle Pl/Sql `medium ^`
+- MySql `medium`
+- MongoDB `medium ^`  - Finished: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/course_completion/44941a645a4b47c9ac4705bd9713d203)
+- Oracle Pl/Sql `medium`
 
 ######Server architecture and application deployment
 - GNU/Linux(Ubuntu, Debian) `medium ^`
-- Nginx `medium`
+- Nginx `medium ^`
 - Vagrant `basics`
 - Docker `basics`
 
@@ -63,7 +71,7 @@ Hi, I'm a Web Developer.
 ##Tools
 
 ######Revision control
-- Git (gitHub, bitBucket)
+- Git (gitHub, bitBucket) `medium ^`
 
 ######Project Management
 - Trello
@@ -108,8 +116,15 @@ Hi, I'm a Web Developer.
 - Mongodb
 - Twitter api
 
+###[Home Automation Mobile](https://github.com/jaksa-b/RpiRemote)
+- Remote Raspberry Pi Controller ([Android](https://github.com/jaksa-b/RpiRemote))
 
 ##Doing
+
+####[Airbnb Clone](https://github.com/jaksa-b/airbnbClone)
+- Meteor
+- Blaze
+- Sass
 
 ###[Home Automation](https://github.com/jaksa-b/SmartHouse)
 - Raspberry Pi
@@ -137,15 +152,18 @@ Hi, I'm a Web Developer.
 - enthusiastic and highly motivated
 
 
-##Intrests
-- Angular
+##Interests
+- Angular, React, Meteor
 - Node.js 
 - MongoDB 
 - Cordova/PhoneGap
 
+
+
+
 ##Hobby
 - Playing drums
-- Making short movies
+- Making short movies [Nanobot](https://www.youtube.com/watch?v=DTelG-PSNZ0)
 - Photography
 
 
