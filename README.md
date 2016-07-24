@@ -2,12 +2,14 @@
 
 Hi, I'm a Web Developer.
 
-![angular](img/angular.png)
-![react](img/react.png)
-![meteor](img/meteor.png)
-![nodejs](img/node.png)
-![mongodb](img/mongo.png)
-![mongodb](img/phonegap.png)
+[![angular](img/angular.png)](https://angular.io/)
+[![react](img/react.png)](https://facebook.github.io/react/)
+[![meteor](img/meteor.png)](https://www.meteor.com/)
+[![nodejs](img/node.png)](https://nodejs.org/en/)
+[![mongodb](img/mongo.png)](https://www.mongodb.com/)
+[![cordova](img/cordova.png)](https://cordova.apache.org/)
+[![raspberry](img/raspberry.png)](https://www.raspberrypi.org/)
+
 
 ##Social
 - Homepage: [http://jaksabasic.com](http://jaksabasic.com)
@@ -28,10 +30,11 @@ Hi, I'm a Web Developer.
 
 ######Languages
 
-- Html5, Css3, Sass, Bootstrap `medium ^`
+- Html5, Css3, Sass, Bootstrap, Semantic UI `medium ^`
 - Javascript `medium ^`
 - Java `basics`
 - Php `basics`
+- Python (django) `basics`
 
 
 ######Web frameworks
@@ -39,7 +42,7 @@ Hi, I'm a Web Developer.
 - JQuary `medium ^`
 - Angularjs ~1.3, `medium ^` Angularjs 2.0 `soon`
 - Node.js (express) `medium ^` 
-- React.js `basics ^` [React Native IOS App](https://github.com/jaksa-b/githubProfiler)
+- React.js `medium ^` [React Native IOS App](https://github.com/jaksa-b/githubProfiler)
 - Meteor `medium ^`
 
 
@@ -67,11 +70,13 @@ Hi, I'm a Web Developer.
 ######Mobile
 - Android `basics`
 - Ionic Framework `basics`
+- IOS `basics`
+- React Native (Ios/Android) `medium ^`
 
 ##Tools
 
 ######Revision control
-- Git (gitHub, bitBucket) `medium ^`
+- Git (gitHub, bitBucket, gitLab) `medium ^`
 
 ######Project Management
 - Trello
@@ -93,6 +98,18 @@ Hi, I'm a Web Developer.
 
 
 ##Work
+
+###[Hotel Jarun Zagreb](https://www.hotel-jarun.com/) - [(live)](https://www.hotel-jarun.com/) 
+
+- Html5, Css3, Sass
+- Semantic UI
+- React.js
+- Meteor.js
+- Reservation System
+- Mail Template
+- SEO
+
+
 ###[Field Worker](https://github.com/jaksa-b/FieldWorker) - [(live)](https://fieldworker0.firebaseapp.com) 
 
 - Html5, Css3, Sass
@@ -121,15 +138,12 @@ Hi, I'm a Web Developer.
 
 ##Doing
 
-####[Airbnb Clone](https://github.com/jaksa-b/airbnbClone)
-- Meteor
-- Blaze
-- Sass
-
 ###[Home Automation](https://github.com/jaksa-b/SmartHouse)
 - Raspberry Pi
 - Raspbian (Debian for Rpi)
 - Web Controller UI
+- Express
+- Socket.io
 
 ##Long Time Ago
 
@@ -153,7 +167,7 @@ Hi, I'm a Web Developer.
 - Angular, React, Meteor
 - Node.js 
 - MongoDB 
-- Cordova/PhoneGap
+- React Native(iOS/Android)
 
 
 
