@@ -40,9 +40,9 @@ Hi, I'm a Web Developer.
 ######Web frameworks
 
 - JQuary `medium ^`
-- Angularjs ~1.3, `medium ^` Angularjs 2.0 `soon`
+- Angularjs ~1.3, `medium` Angularjs 2.0 `medium ^`
 - Node.js (express) `medium ^` 
-- React.js `medium ^` [React Native IOS App](https://github.com/jaksa-b/githubProfiler)
+- React.js `medium ^`
 - Meteor `medium ^`
 
 
@@ -71,7 +71,7 @@ Hi, I'm a Web Developer.
 - Android `basics`
 - Ionic Framework `basics`
 - IOS `basics`
-- React Native (Ios/Android) `medium ^`
+- React Native (Ios/Android) `medium ^` [React Native IOS App](https://github.com/jaksa-b/githubProfiler)
 
 ##Tools
 
@@ -86,7 +86,7 @@ Hi, I'm a Web Developer.
 
 ######Code Editor
 
-- Sublime
+- Atom
 - WebStorm
 - Android Studio
 - Xcode
@@ -145,14 +145,6 @@ Hi, I'm a Web Developer.
 - Express
 - Socket.io
 
-##Long Time Ago
-
-> When you look at your past project and you feel ashamed. You say: **I can do it better now**, that means you've evolved.
-
-
-[Algebra Workout](http://jaksabasic.com/old/algebra/) - small project I've done for the course.
-
-[Kontakt](http://www.kontakt-zd.hr/) - Company web site
 
 ##Personal skills
 - good interpersonal skills 
