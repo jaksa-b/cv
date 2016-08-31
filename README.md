@@ -1,6 +1,6 @@
 ##About
 
-Hi, I'm a Web Developer.
+Hi, I'm a Full Stack Javascript Developer.
 
 [![angular](img/angular.png)](https://angular.io/)
 [![react](img/react.png)](https://facebook.github.io/react/)
@@ -99,7 +99,9 @@ Hi, I'm a Web Developer.
 
 ##Work
 
-###[Hotel Jarun Zagreb](https://www.hotel-jarun.com/) - [(live)](https://www.hotel-jarun.com/) 
+###[Hotel Jarun Zagreb](https://www.hotel-jarun.com/) @ [byLapis](https://www.bylapis.com/) 
+
+[![hotel-jarun](img/hotel-jarun.png)](https://www.hotel-jarun.com/)
 
 - Html5, Css3, Sass
 - Semantic UI
@@ -109,8 +111,22 @@ Hi, I'm a Web Developer.
 - Mail Template
 - SEO
 
+###[ByLapis](https://bylapis.com) @ [byLapis](https://bylapis.com/) 
 
-###[Field Worker](https://github.com/jaksa-b/FieldWorker) - [(live)](https://fieldworker0.firebaseapp.com) 
+[![bylapis](img/bylapis.png)](https://www.bylapis.com/)
+
+- Html5, Css3, Sass
+- Semantic UI
+- Jade
+- Express.js
+- i18N
+- SEO
+
+
+
+###[Field Worker](https://fieldworker0.firebaseapp.com) - [(code)](https://github.com/jaksa-b/FieldWorker)
+
+[![fieldworker](img/fieldworker.png)](https://fieldworker0.firebaseapp.com)
 
 - Html5, Css3, Sass
 - Bootstrap
@@ -122,11 +138,15 @@ Hi, I'm a Web Developer.
 
 ###[React Native IOS App](https://github.com/jaksa-b/githubProfiler)
 
+![fieldworker](img/github-search.png =200x)
+![fieldworker](img/github-profiler.png =200x)
+
 - React Native
 - Ecmascript 6
 - Github api
 
 ###[Twitter App](https://github.com/jaksa-b/twitter) - [(live)](https://twitter-app-demo.herokuapp.com/)
+
 - Agularjs 
 - Nodejs 
 - Socket.io 
