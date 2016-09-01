@@ -107,6 +107,7 @@ Hi, I'm a Full Stack Javascript Developer.
 - Semantic UI
 - React.js
 - Meteor.js
+- i18n
 - Reservation System
 - Mail Template
 - SEO
@@ -119,7 +120,7 @@ Hi, I'm a Full Stack Javascript Developer.
 - Semantic UI
 - Jade
 - Express.js
-- i18N
+- i18n
 - SEO
 
 
@@ -159,10 +160,13 @@ Hi, I'm a Full Stack Javascript Developer.
 ##Doing
 
 ###[Home Automation](https://github.com/jaksa-b/SmartHouse)
+
+![smarthouse](img/smarthouse.png)
+
 - Raspberry Pi
 - Raspbian (Debian for Rpi)
 - Web Controller UI
-- Express
+- Express.js
 - Socket.io
 
 
@@ -180,7 +184,6 @@ Hi, I'm a Full Stack Javascript Developer.
 - Node.js 
 - MongoDB 
 - React Native(iOS/Android)
-
 
 
 
