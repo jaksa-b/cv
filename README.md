@@ -139,8 +139,8 @@ Hi, I'm a Full Stack Javascript Developer.
 
 ###[React Native IOS App](https://github.com/jaksa-b/githubProfiler)
 
-![fieldworker](img/github-search.png =200x)
-![fieldworker](img/github-profiler.png =200x)
+![githubProfiler](img/github-search.png =200x)
+![githubProfiler](img/github-profiler.png =200x)
 
 - React Native
 - Ecmascript 6
