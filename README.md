@@ -95,6 +95,21 @@ Hi, I'm a Full Stack Javascript Developer.
 - Grunt 
 - Gulp 
 
+##Experience
+
+#### Full Stack Javascript Developer (meteor) @byLapis  
+February 2016 – August 2016 (6 months) Zagreb  
+Building Web Applications with React and Meteor.js
+
+#### Javascript Developer @Cinexio  
+September 2015 – January 2016 (5 months) Zagreb  
+Developing Javascript parsers
+
+#### Front-end, UI Developer @Ingel  
+September 2012 – September 2015 (3 years) Zagreb  
+Developing User interface, frontend development
+
+
 
 
 ##Work
