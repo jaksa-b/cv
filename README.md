@@ -169,6 +169,26 @@ Developing User interface, frontend development
 - SEO
 
 
+##Sandbox 
+
+###[Pokedex](http://jaksabasic.com/pokedex) - [(code)](https://github.com/jaksa-b/pokedex)
+
+[![pokedex](img/pokedex.png)](http://jaksabasic.com/pokedex)
+
+- Html5, Css3, Sass
+- Semantic UI
+- React
+- Rest api
+
+###[Home Automation](https://github.com/jaksa-b/SmartHouse)
+
+![smarthouse](img/smarthouse.png)
+
+- Raspberry Pi
+- Raspbian (Debian for Rpi)
+- Web Controller UI
+- Express.js
+- Socket.io
 
 ###[Field Worker](https://fieldworker0.firebaseapp.com) - [(code)](https://github.com/jaksa-b/FieldWorker)
 
@@ -202,17 +222,6 @@ Developing User interface, frontend development
 ###[Home Automation Mobile](https://github.com/jaksa-b/RpiRemote)
 - Remote Raspberry Pi Controller ([Android](https://github.com/jaksa-b/RpiRemote))
 
-##Doing
-
-###[Home Automation](https://github.com/jaksa-b/SmartHouse)
-
-![smarthouse](img/smarthouse.png)
-
-- Raspberry Pi
-- Raspbian (Debian for Rpi)
-- Web Controller UI
-- Express.js
-- Socket.io
 
 
 ##Personal skills
