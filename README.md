@@ -40,9 +40,9 @@ Hi, I'm a Full Stack Javascript Developer.
 ######Web frameworks
 
 - JQuary `medium ^`
-- Angularjs ~1.3, `medium` Angularjs 2.0 `medium ^`
+- Angularjs ~1.3, `medium` Angularjs 2.0 `basics ^`
 - Node.js (express) `medium ^` 
-- React.js `medium ^`
+- React.js `medium ^` Redux `basics ^`
 - Meteor `medium ^`
 
 
@@ -97,7 +97,11 @@ Hi, I'm a Full Stack Javascript Developer.
 
 ##Experience
 
-#### Full Stack Javascript Developer (meteor) @byLapis  
+#### Javascript Developer @[Dream Implementation](https://www.dream-implementation.com/) 
+September 2016 – (Present) Zagreb  
+Building Web Applications with Angular
+
+#### Full Stack Javascript Developer (meteor) @[byLapis](https://bylapis.com)  
 February 2016 – August 2016 (6 months) Zagreb  
 Building Web Applications with React and Meteor.js
 
@@ -106,7 +110,7 @@ September 2015 – January 2016 (5 months) Zagreb
 Developing Javascript parsers
 
 #### Front-end, UI Developer @Ingel  
-September 2012 – September 2015 (3 years) Zagreb  
+September 2012 – September 2015 (3 years) Zadar  
 Developing User interface, frontend development
 
 
@@ -114,7 +118,33 @@ Developing User interface, frontend development
 
 ##Work
 
-###[Hotel Jarun Zagreb](https://www.hotel-jarun.com/) @ [byLapis](https://www.bylapis.com/) 
+### Styker Surgical Market Size Mapping tool @[Dream Implementation](https://www.dream-implementation.com/)
+
+![sretno](img/stryker.png)
+
+- Html5, Css3, Sass
+- Bootstrap
+- Angular 1.x
+
+
+### [Sretno](https://www.sretno.eu/) @[Dream Implementation](https://www.dream-implementation.com/)
+
+[![sretno](img/sretno.png)](https://www.sretno.eu/)
+
+- Html5, Css3, Sass
+- Canvas
+- Bootstrap
+- Angular 1.x
+
+### PTV Reseller @[Dream Implementation](https://www.dream-implementation.com/)
+
+![ptv](img/ptv.png)
+
+- Html5, Css3, Sass
+- Bootstrap
+- Angular 1.x
+
+###[Hotel Jarun Zagreb](https://www.hotel-jarun.com/) @[byLapis](https://www.bylapis.com/) 
 
 [![hotel-jarun](img/hotel-jarun.png)](https://www.hotel-jarun.com/)
 
