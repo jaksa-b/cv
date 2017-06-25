@@ -1,4 +1,4 @@
-##About
+## About
 
 Hi, I'm a Full Stack Javascript Developer.
 
@@ -7,17 +7,16 @@ Hi, I'm a Full Stack Javascript Developer.
 [![meteor](img/meteor.png)](https://www.meteor.com/)
 [![nodejs](img/node.png)](https://nodejs.org/en/)
 [![mongodb](img/mongo.png)](https://www.mongodb.com/)
-[![cordova](img/cordova.png)](https://cordova.apache.org/)
 [![raspberry](img/raspberry.png)](https://www.raspberrypi.org/)
 
 
-##Social
+## Social
 - Homepage: [http://jaksabasic.com](http://jaksabasic.com)
 - Twitter: [https://twitter.com/jaksabasic](https://twitter.com/jaksabasic)
 - Github: [https://github.com/jaksa-b](https://github.com/jaksa-b)
 - LinkedIn: [https://www.linkedin.com/in/jaksabasic](https://www.linkedin.com/in/jaksabasic)
 
-##Education
+## Education
 [Vsite](http://vsite.hr/?q=en) (College for Information Technologies) - Master degree in Computer Science 
 
 [Algebra](http://www.algebra.hr/) Web Development Course (Illustrator, Html5, Css3, Wordpress, Seo)
@@ -25,77 +24,69 @@ Hi, I'm a Full Stack Javascript Developer.
 [Tvz](http://tvz.hr/en/) (Polytechnic university of zagreb) - Bachelor of Engineering in IT Technologies 
 
 
-##Skills
+## Skills
 `^` up and rising
 
-######Languages
+###### Languages
 
-- Html5, Css3, Sass, Bootstrap, Semantic UI `medium ^`
+- Html5, Css3, Sass, Bootstrap, Semantic UI
 - Javascript `medium ^`
-- Java `basics`
-- Php `basics`
-- Python (django) `basics`
 
+###### Web frameworks
 
-######Web frameworks
-
-- JQuary `medium ^`
-- Angularjs ~1.3, `medium` Angularjs 2.0 `basics ^`
+- JQuary `medium`
+- Angularjs ~1.xx, `medium` Angularjs 2.0 `medium ^`
 - Node.js (express) `medium ^` 
-- React.js `medium ^` Redux `basics ^`
+- React.js `medium ^` (Redux, Mobx)
 - Meteor `medium ^`
 
 
-######Databases
+###### Databases
 
 - MySql `medium`
 - MongoDB `medium ^`  - Finished: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/course_completion/44941a645a4b47c9ac4705bd9713d203)
 - Oracle Pl/Sql `medium`
 
-######Server architecture and application deployment
+###### Server architecture and application deployment
 - GNU/Linux(Ubuntu, Debian) `medium ^`
 - Nginx `medium ^`
-- Vagrant `basics`
 - Docker `basics`
 
-######Cloud
+###### Cloud
 - Amazon Web Services `basics`
 - Heroku `medium`
-- Digital Ocean `high`
+- Digital Ocean `medium`
 
-######Real-time
+###### Real-time
 
 - Firebase `medium`
 
-######Mobile
+###### Mobile
 - Android `basics`
-- Ionic Framework `basics`
 - IOS `basics`
-- React Native (Ios/Android) `medium ^` [React Native IOS App](https://github.com/jaksa-b/githubProfiler)
+- React Native (Ios/Android) `medium ^` 
 
-##Tools
+## Tools
 
-######Revision control
+###### Revision control
 - Git (gitHub, bitBucket, gitLab) `medium ^`
 
-######Project Management
+###### Project Management
 - Trello
 - GitFlow
 - Agile Scrum Methodologies
 - Full Life-Cycle Software Development
 
-######Code Editor
+###### Code Editor
 
-- Atom
-- WebStorm
+- Visual Studio Code
 - Android Studio
 - Xcode
 
-######Build Tool
-- Grunt 
-- Gulp 
+###### Build Tool
+- Webpack
 
-##Experience
+## Experience
 
 #### Javascript Developer @[Dream Implementation](https://www.dream-implementation.com/) 
 September 2016 – (Present) Zagreb  
@@ -114,9 +105,7 @@ September 2012 – September 2015 (3 years) Zadar
 Developing User interface, frontend development
 
 
-
-
-##Work
+## Work
 
 ### Styker Surgical Market Size Mapping tool @[Dream Implementation](https://www.dream-implementation.com/)
 
@@ -144,7 +133,7 @@ Developing User interface, frontend development
 - Bootstrap
 - Angular 1.x
 
-###[Hotel Jarun Zagreb](https://www.hotel-jarun.com/) @[byLapis](https://www.bylapis.com/) 
+### [Hotel Jarun Zagreb](https://www.hotel-jarun.com/) @[byLapis](https://www.bylapis.com/) 
 
 [![hotel-jarun](img/hotel-jarun.png)](https://www.hotel-jarun.com/)
 
@@ -157,7 +146,7 @@ Developing User interface, frontend development
 - Mail Template
 - SEO
 
-###[ByLapis](https://bylapis.com) @ [byLapis](https://bylapis.com/) 
+### [ByLapis](https://bylapis.com) @ [byLapis](https://bylapis.com/) 
 
 [![bylapis](img/bylapis.png)](https://www.bylapis.com/)
 
@@ -169,9 +158,9 @@ Developing User interface, frontend development
 - SEO
 
 
-##Sandbox 
+## Sandbox 
 
-###[Pokedex](http://jaksabasic.com/pokedex) - [(code)](https://github.com/jaksa-b/pokedex)
+### [Pokedex](http://jaksabasic.com/pokedex) - [(code)](https://github.com/jaksa-b/pokedex)
 
 [![pokedex](img/pokedex.png)](http://jaksabasic.com/pokedex)
 
@@ -180,7 +169,7 @@ Developing User interface, frontend development
 - React
 - Rest api
 
-###[Home Automation](https://github.com/jaksa-b/SmartHouse)
+### [Home Automation](https://github.com/jaksa-b/SmartHouse)
 
 ![smarthouse](img/smarthouse.png)
 
@@ -190,7 +179,7 @@ Developing User interface, frontend development
 - Express.js
 - Socket.io
 
-###[Field Worker](https://fieldworker0.firebaseapp.com) - [(code)](https://github.com/jaksa-b/FieldWorker)
+### [Field Worker](https://fieldworker0.firebaseapp.com) - [(code)](https://github.com/jaksa-b/FieldWorker)
 
 [![fieldworker](img/fieldworker.png)](https://fieldworker0.firebaseapp.com)
 
@@ -202,7 +191,7 @@ Developing User interface, frontend development
 - Bower
 - Grunt
 
-###[React Native IOS App](https://github.com/jaksa-b/githubProfiler)
+### [React Native IOS App](https://github.com/jaksa-b/githubProfiler)
 
 ![githubProfiler](img/github-search.png)
 ![githubProfiler](img/github-profiler.png)
@@ -211,7 +200,7 @@ Developing User interface, frontend development
 - Ecmascript 6
 - Github api
 
-###[Twitter App](https://github.com/jaksa-b/twitter) - [(live)](https://twitter-app-demo.herokuapp.com/)
+### [Twitter App](https://github.com/jaksa-b/twitter) - [(live)](https://twitter-app-demo.herokuapp.com/)
 
 - Agularjs 
 - Nodejs 
@@ -219,12 +208,12 @@ Developing User interface, frontend development
 - Mongodb
 - Twitter api
 
-###[Home Automation Mobile](https://github.com/jaksa-b/RpiRemote)
+### [Home Automation Mobile](https://github.com/jaksa-b/RpiRemote)
 - Remote Raspberry Pi Controller ([Android](https://github.com/jaksa-b/RpiRemote))
 
 
 
-##Personal skills
+## Personal skills
 - good interpersonal skills 
 - good organizational skills
 - team player but able to work on own initiative
@@ -233,15 +222,16 @@ Developing User interface, frontend development
 - enthusiastic and highly motivated
 
 
-##Interests
-- Angular, React, Meteor
+## Interests
+- React
+- Meteor
 - Node.js 
 - MongoDB 
-- React Native(iOS/Android)
+- React Native
 
 
 
-##Hobby
+## Hobby
 - Playing drums
 - Making short movies [Nanobot](https://www.youtube.com/watch?v=DTelG-PSNZ0)
 - Photography
