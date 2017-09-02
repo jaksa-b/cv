@@ -1,6 +1,6 @@
 ## About
 
-Hi, I'm a Full Stack Javascript Developer.
+Hi, I'm Javascript Developer.
 
 [![angular](img/angular.png)](https://angular.io/)
 [![react](img/react.png)](https://facebook.github.io/react/)
@@ -37,7 +37,7 @@ Hi, I'm a Full Stack Javascript Developer.
 - JQuary `medium`
 - Angularjs ~1.xx, `medium` Angularjs 2.0 `medium ^`
 - Node.js (express) `medium ^` 
-- React.js `medium ^` (Redux, Mobx)
+- React.js `medium ^` (Redux, Mobx) `medium ^` 
 - Meteor `medium ^`
 
 
@@ -73,6 +73,7 @@ Hi, I'm a Full Stack Javascript Developer.
 
 ###### Project Management
 - Trello
+- Asana
 - GitFlow
 - Agile Scrum Methodologies
 - Full Life-Cycle Software Development
@@ -88,20 +89,24 @@ Hi, I'm a Full Stack Javascript Developer.
 
 ## Experience
 
+#### Javascript Developer @[digihey](http://www.digihey.com/) 
+August 2017 – (Present) Zagreb  
+Building Web Applications with Angular, React, Redux
+
 #### Javascript Developer @[Dream Implementation](https://www.dream-implementation.com/) 
-September 2016 – (Present) Zagreb  
+September 2016 – August 2017 Zagreb  
 Building Web Applications with Angular
 
 #### Full Stack Javascript Developer (meteor) @[byLapis](https://bylapis.com)  
-February 2016 – August 2016 (6 months) Zagreb  
+February 2016 – August 2016 Zagreb  
 Building Web Applications with React and Meteor.js
 
 #### Javascript Developer @Cinexio  
-September 2015 – January 2016 (5 months) Zagreb  
+September 2015 – January 2016 Zagreb  
 Developing Javascript parsers
 
 #### Front-end, UI Developer @Ingel  
-September 2012 – September 2015 (3 years) Zadar  
+September 2012 – September 2015 Zadar  
 Developing User interface, frontend development
 
 
@@ -109,7 +114,7 @@ Developing User interface, frontend development
 
 ### Styker Surgical Market Size Mapping tool @[Dream Implementation](https://www.dream-implementation.com/)
 
-![sretno](img/stryker.png)
+![stryker](img/stryker.png)
 
 - Html5, Css3, Sass
 - Bootstrap
