@@ -172,15 +172,6 @@ Developing User interface, frontend development
 
 ## Sandbox 
 
-### [Pokedex](http://jaksabasic.com/pokedex) - [(code)](https://github.com/jaksa-b/pokedex)
-
-[![pokedex](img/pokedex.png)](http://jaksabasic.com/pokedex)
-
-- Html5, Css3, Sass
-- Semantic UI
-- React
-- Rest api
-
 ### [Home Automation](https://github.com/jaksa-b/SmartHouse)
 
 ![smarthouse](img/smarthouse.png)
