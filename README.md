@@ -27,21 +27,17 @@ Hi, I'm Javascript Developer.
 ## Skills
 `^` up and rising
 
-###### Languages
+###### Stack
 
-- Html5, Css3, Sass, Bootstrap, Semantic UI
+- Html5, Css3, Sass, Bootstrap, Semantic UI, Material UI
 - Javascript `medium ^`
-
-###### Web frameworks
-
 - JQuary `medium`
 - Angularjs ~1.xx, `medium` Angularjs 2.0 `medium ^`
-- Node.js (express) `medium ^` 
+- Node.js (express, Apollo GraphQL) `medium ^` 
 - React.js `medium ^` (Redux, Mobx) `medium ^` 
 - Meteor `medium ^`
 
-
-###### Databases
+###### DB
 
 - MySql `medium`
 - MongoDB `medium ^`  - Finished: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/course_completion/44941a645a4b47c9ac4705bd9713d203)
@@ -53,7 +49,7 @@ Hi, I'm Javascript Developer.
 - Docker `basics`
 
 ###### Cloud
-- Amazon Web Services `basics`
+- Amazon Web Services `medium`
 - Heroku `medium`
 - Digital Ocean `medium`
 
@@ -81,8 +77,6 @@ Hi, I'm Javascript Developer.
 ###### Code Editor
 
 - Visual Studio Code
-- Android Studio
-- Xcode
 
 ###### Build Tool
 - Webpack
@@ -111,6 +105,16 @@ Developing User interface, frontend development
 
 
 ## Work
+
+### Booster Fuels Web Dashboard @[Digihey](http://www.digihey.com/)
+
+[![reaper](img/reaper.png)](https://app.trybooster.com/)
+
+- Html5, Css3, Sass
+- React, Redux, React-router
+- Google Maps Api
+- Rest Api
+- Sentry, Google Analytics, Segment
 
 ### Booster Fuels Landing page @[Digihey](http://www.digihey.com/)
 
