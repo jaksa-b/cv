@@ -1,7 +1,3 @@
----
-Hi, I'm Javascript Developer
----
-
 # ✌️Hello
 
  <img src="./img/me.jpeg" style="zoom:50%;" />
