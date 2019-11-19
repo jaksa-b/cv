@@ -1,10 +1,6 @@
 # ✌️Hello
 
- <img src="./img/me.jpeg" style="zoom:50%;" />
-
 Hi, I'm Javascript Developer.
-
-
 
 ## :spider_web: Social
 
