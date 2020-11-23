@@ -20,8 +20,10 @@ Hi, I'm Javascript Developer.
 
 ## :detective: Interests
 
+- TypeScript
 - React
 - React Native
+- Next.js
 - GraphQL
 - Node.js
 - Raspberry Pi
