@@ -2,14 +2,14 @@
 
 Hi, I'm Javascript Developer.
 
-## :spider_web: Social
+## 🕸️ Social
 
 - Homepage: [http://jaksabasic.com](http://jaksabasic.com)
 - Twitter: [https://twitter.com/jaksabasic](https://twitter.com/jaksabasic)
 - Github: [https://github.com/jaksa-b](https://github.com/jaksa-b)
 - LinkedIn: [https://www.linkedin.com/in/jaksabasic](https://www.linkedin.com/in/jaksabasic)
 
-## :performing_arts: Personal skills
+## 🎭 Personal skills
 
 - good interpersonal skills
 - good organizational skills
@@ -18,7 +18,7 @@ Hi, I'm Javascript Developer.
 - good written and oral communication skills
 - enthusiastic and highly motivated
 
-## :detective: Interests
+## 🕵️‍♂️ Interests
 
 - TypeScript
 - React
@@ -34,42 +34,43 @@ Hi, I'm Javascript Developer.
 - 🏋️‍♂️ Workout
 - 🥘 Cook
 
-## :school: Education
+## 🏫 Education
 
 - [Vsite](http://vsite.hr/?q=en) (College for Information Technologies) - Master degree in CS
 - [Algebra](http://www.algebra.hr/) Web Development Course (Html5, Css3, Wordpress, Seo)
 - [Tvz](http://tvz.hr/en/) (Polytechnic university of zagreb) - Bachelor of Engineering
 
-## :computer: Skills
+## 💻 Skills
 
-###### :closed_book: Stack
+###### 🧱 Stack
 
 - Javascript
+- TypeScript
+- React, React Native (Redux, Apollo, Jest)
 - Node.js (express, Apollo GraphQL)
-- React.js (Redux, Apollo, Jest)
 - Styled components
 
-###### :package: DB
+###### 📦 DB
 
 - Sql
 - MongoDB - Finished: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/course_completion/44941a645a4b47c9ac4705bd9713d203)
 - Oracle Pl/Sql
 
-###### :hourglass: Real-time
+###### ⌛ Real-time
 
 - Firebase
 
-###### :iphone: Mobile
+###### 📱 Mobile
 
 - React Native (Ios/Android)
 
-## :wrench: Tools
+## 🛠️ Tools
 
-###### :octopus: Revision control
+###### 🐙 Revision control
 
 - Git (gitHub, bitBucket, gitLab)
 
-###### :bookmark_tabs: Project Management
+###### 📑 Project Management
 
 - Trello
 - Asana
@@ -118,7 +119,7 @@ Developing Javascript parsers
 September 2012 – September 2015 Zadar  
 Developing User interface, frontend development
 
-# :building_construction: Work
+# 🏗️ Work
 
 ### Wellie @[Verybigthings](http://verybigthings.com/)
 
@@ -147,14 +148,14 @@ Developing User interface, frontend development
 
 ##### [![reaper](img/reaper.png)](https://app.trybooster.com/)
 
-### :fuelpump: Booster Fuels Landing page @[Digihey](http://www.digihey.com/)
+### ⛽ Booster Fuels Landing page @[Digihey](http://www.digihey.com/)
 
 - Html5, Css3, Sass
 - React, Redux, Next.js, SSR
 
 [![trybooster](img/trybooster.png)](https://www.trybooster.com/)
 
-### :hospital: Styker Surgical Market Size Mapping tool @[Dream Implementation](https://www.dream-implementation.com/)
+### 🏥 Styker Surgical Market Size Mapping tool @[Dream Implementation](https://www.dream-implementation.com/)
 
 - Html5, Css3, Sass
 - Bootstrap
@@ -162,7 +163,7 @@ Developing User interface, frontend development
 
 ![stryker](img/stryker.png)
 
-### [:tada: Sretno](https://www.sretno.eu/) @[Dream Implementation](https://www.dream-implementation.com/)
+### [🎉 Sretno](https://www.sretno.eu/) @[Dream Implementation](https://www.dream-implementation.com/)
 
 - Html5, Css3, Sass
 - Canvas
@@ -171,7 +172,7 @@ Developing User interface, frontend development
 
 [![sretno](img/sretno.png)](https://www.sretno.eu/)
 
-### :truck: PTV Reseller @[Dream Implementation](https://www.dream-implementation.com/)
+### 🚚 PTV Reseller @[Dream Implementation](https://www.dream-implementation.com/)
 
 - Html5, Css3, Sass
 - Bootstrap
@@ -179,7 +180,7 @@ Developing User interface, frontend development
 
 ![ptv](img/ptv.png)
 
-### [:hotel: Hotel Jarun Zagreb](https://www.hotel-jarun.com/) @[byLapis](https://www.bylapis.com/)
+### [🏨 Hotel Jarun Zagreb](https://www.hotel-jarun.com/) @[byLapis](https://www.bylapis.com/)
 
 - Html5, Css3, Sass, Semantic UI
 - React.js, Meteor.js, i18n
@@ -189,7 +190,7 @@ Developing User interface, frontend development
 
 [![hotel-jarun](img/hotel-jarun.png)](https://www.hotel-jarun.com/)
 
-### [:briefcase: ByLapis](https://bylapis.com) @ [byLapis](https://bylapis.com/)
+### [💼 ByLapis](https://bylapis.com) @ [byLapis](https://bylapis.com/)
 
 - Html5, Css3, Sass, Semantic UI
 - Jade, Express.js, i18n
@@ -197,9 +198,9 @@ Developing User interface, frontend development
 
 [![bylapis](img/bylapis.png)](https://www.bylapis.com/)
 
-# :video_game: Sandbox
+# 🎮 Sandbox
 
-### [:house: Home Automation](https://github.com/jaksa-b/SmartHouse)
+### [🏠 Home Automation](https://github.com/jaksa-b/SmartHouse)
 
 - Raspberry Pi
 - Raspbian (Debian for Rpi)
@@ -209,7 +210,7 @@ Developing User interface, frontend development
 
 ![smarthouse](img/smarthouse.png)
 
-### [:construction_worker_man: Field Worker](https://fieldworker0.firebaseapp.com) - [(code)](https://github.com/jaksa-b/FieldWorker)
+### [👷‍♂️ Field Worker](https://fieldworker0.firebaseapp.com) - [(code)](https://github.com/jaksa-b/FieldWorker)
 
 - Html5, Css3, Sass, Bootstrap
 - Angularjs
@@ -218,7 +219,7 @@ Developing User interface, frontend development
 
 [![fieldworker](img/fieldworker.png)](https://fieldworker0.firebaseapp.com)
 
-### [:bird: Twitter App](https://github.com/jaksa-b/twitter) - [(live)](https://twitter-app-demo.herokuapp.com/)
+### [🐦 Twitter App](https://github.com/jaksa-b/twitter) - [(live)](https://twitter-app-demo.herokuapp.com/)
 
 - Agularjs
 - Nodejs
@@ -226,15 +227,6 @@ Developing User interface, frontend development
 - Mongodb
 - Twitter api
 
-### :control_knobs: [Home Automation Mobile](https://github.com/jaksa-b/RpiRemote)
+### 🎛️ [Home Automation Mobile](https://github.com/jaksa-b/RpiRemote)
 
 - Remote Raspberry Pi Controller ([Android](https://github.com/jaksa-b/RpiRemote))
-
-### [:iphone: React Native IOS App](https://github.com/jaksa-b/githubProfiler)
-
-- React Native
-- Ecmascript 6
-- Github api
-
-<img src="img/github-search.png" alt="githubProfiler" style="zoom:70%;" />
-<img src="img/github-profiler.png" alt="githubProfiler" style="zoom:70%;" />
